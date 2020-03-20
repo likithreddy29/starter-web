@@ -2,11 +2,6 @@ Where are you now
 
 where are you now 
 
-where are you now
-
-<<<<<<< Updated upstream
+I am no where 
 
 
-likith 
-=======
->>>>>>> Stashed changes
